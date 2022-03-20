@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MuseMusicPlayer v01</string>
+
+    <string name="song_Name">Song Name</string>
+    <string name="album_image">Album Image</string>
+
+    <string name="button_SearchLyrics">Search Lyrics</string>
+</resources>

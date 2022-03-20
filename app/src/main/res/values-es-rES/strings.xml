@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reproductor de musica Muse v01</string>
+    <string name="song_Name">Nombre de Cancion</string>
+    <string name="album_image">Imagen de Album</string>
+    <string name="button_SearchLyrics">Buscar Letras</string>
+</resources>
